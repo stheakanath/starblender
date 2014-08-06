@@ -8,7 +8,7 @@ This is where starblender comes in. I designed a a novel method that extends sta
 Why Open Source?
 ---------------
 
-I want future astrophysicists to use this program, make it more efficient and use it for their own research, because research is a team oriented activity. 
+I want future astrophysicists to use this program, make it more efficient and use it for their own research to allow for farther star spectroscopy. 
 
 How to Use
 ---------------
