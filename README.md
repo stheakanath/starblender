@@ -25,3 +25,17 @@ Main Program Details
 - __coaddition.py__ Python version of above program.
 
 Other programs are used for FITS and Z-SPEC file handling/setup for coaddition and star blending. 
+
+Results
+---------------
+
+So what have we achieved with this program? We discovered dwarf-dwarf cannibalism events, proving history wrong and noting the NGC 4449 merger as a dwarf-dwarf merger. 
+
+Research has been published in Harvard-Smithsonian ADS - http://adsabs.harvard.edu/abs/2014AAS...22335524T
+
+Acknowledgements
+---------------
+
+This project would not be possible without Professor Puragra (Raja) GuhaThakurta, Dr. Elisa Toloba, The University of California Santa Cruz, and the National Science Foundation. 
+
+We thank Intel Corporation and Siemens Foundation for recognizing our work.
