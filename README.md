@@ -15,11 +15,13 @@ How to Use
 
 You'll need to have IDL in order to do the server side work, in addition to your SLIT Z-SPEC files, for program analysis. 
 
-Program Details
+Main Program Details
 ---------------
 
 - __ColorMagnitude_ZQualities.py__ Prints the Z-Qualities from -2 to 4 on a graph for analysis. See Siemens paper above. 
 - __Distance_Velocity.py__ Runs a simulation of the Distance vs Velocity over time. 
 - __FITStablesheadersreader.py__ Converts the FITS raw file for analysis. 
-- __FITStablesheadersreader.py__ Converts the FITS raw file for analysis. 
-- __FITStablesheadersreader.py__ Converts the FITS raw file for analysis. 
+- __coaddition.pro__ Coadds the starts for larger star magnitude (Key algorithm invented). 
+- __coaddition.py__ Python version of above program.
+
+Other programs are used for FITS and Z-SPEC file handling/setup for coaddition and star blending. 
